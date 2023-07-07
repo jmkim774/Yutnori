@@ -1,10 +1,9 @@
 # Yutnori
 
-|  name  | rule |
-| ------ | ---- |
-| Kim Jeong Min | maintainer |
-| 최현민 | member |
-| 박재현 | member |
+|  Name  | Rule |
+| Kim Jeong Min | Maintainer |
+| Choi Hyun Min | Member |
+| Park Jae Hyun  | Member |
 
 ### Workflow
 
@@ -20,3 +19,14 @@
 - Move player's piece
 - Make gameboard
 - Make throwYut function
+
+## Choi Hyun Min
+
+- Checking game end
+- game loop function
+- changing order
+
+## Park Jae Hyun
+- Check Catch Game Piece
+- check if it's Yut or if it's MO
+- Game Board Update
