@@ -1,10 +1,10 @@
 # Yutnori
 
-|  name  | rule | parts |
-| ------ | ---- | ------- |
-| 梯薑團 | maintainer |       |
-| 譆⑷團 | member |       |
-| 夢營⑷ | member |       |
+|  name  | rule |
+| ------ | ---- |
+| Kim Jeong Min | maintainer |
+| 譆⑷團 | member |
+| 夢營⑷ | member |
 
 ### Workflow
 
@@ -14,3 +14,9 @@
 
 - Python
 
+## Kim Jeong Min
+
+- Make Yutnori class
+- Move player's piece
+- Make gameboard
+- Make throwYut function
