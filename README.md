@@ -1,10 +1,10 @@
 # Yutnori
 
-|  name  | rule | parts |
+|  Name  | Rule | Parts |
 | ------ | ---- | ------- |
-| ±èÁ¤¹Î | maintainer |       |
-| ÃÖÇö¹Î | member |       |
-| ¹ÚÀçÇö | member |       |
+| Â±Ã¨ÃÂ¤Â¹Ã | Maintainer |       |
+| ÃƒÃ–Ã‡Ã¶Â¹Ã | Member |       |
+| Â¹ÃšÃ€Ã§Ã‡Ã¶ | Member |       |
 
 ### Workflow
 
