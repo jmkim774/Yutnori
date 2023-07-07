@@ -4,7 +4,7 @@
 | ------ | ---- | ------- |
 | ±èÁ¤¹Î | Maintainer |       |
 | ÃÖÇö¹Î | Member |       |
-| ¹ÚÀçÇö | Member |       |
+| Choi Hyun Min | Member |       |
 
 ### Workflow
 
@@ -14,3 +14,8 @@
 
 - Python
 
+## Choi Hyun Min
+
+- Checking game end
+- game loop function
+- changing order
