@@ -1,10 +1,9 @@
 # Yutnori
 
-|  Name  | Rule | Parts |
-| ------ | ---- | ------- |
-| ±èÁ¤¹Î | Maintainer |       |
-| Choi Hyun Min | Member |       |
-| Park Jae Hyun  | Member     |        |
+|  Name  | Rule |
+| Kim Jeong Min | Maintainer |
+| Choi Hyun Min | Member |
+| Park Jae Hyun  | Member |
 
 ### Workflow
 
@@ -13,6 +12,13 @@
 ### Use language
 
 - Python
+
+## Kim Jeong Min
+
+- Make Yutnori class
+- Move player's piece
+- Make gameboard
+- Make throwYut function
 
 ## Choi Hyun Min
 
