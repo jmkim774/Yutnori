@@ -1,6 +1,7 @@
 # Yutnori
 
 |  Name  | Rule |
+|------|------|
 | Kim Jeong Min | Maintainer |
 | Choi Hyun Min | Member |
 | Park Jae Hyun  | Member |
