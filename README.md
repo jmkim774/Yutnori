@@ -3,8 +3,8 @@
 |  Name  | Rule | Parts |
 | ------ | ---- | ------- |
 | ±èÁ¤¹Î | Maintainer |       |
-| ÃÖÇö¹Î | Member |       |
-| ¹ÚÀçÇö | Member |       |
+| Park Jae Hyun  | Member     |        |
+| ¹ÚÀçÇö | Member     |       |
 
 ### Workflow
 
@@ -13,4 +13,9 @@
 ### Use language
 
 - Python
+
+## Park Jae Hyun
+- Check Catch Game Piece
+- check if it's Yut or if it's MO
+- Game Board Update
 
